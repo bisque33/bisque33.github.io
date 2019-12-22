@@ -6,7 +6,8 @@
 
 - github: [bisque33](https://github.com/bisque33)
 - twitter: [bisque33](https://twitter.com/bisque33)
-- blog: [Persistence](http://bisque.hatenablog.jp/)
+- 個人blog: [Persistence](http://bisque.hatenablog.jp/)
+- 会社blog: [Developers.IO](https://dev.classmethod.jp/author/igarashi-ryosuke/)
 
 ## Job Career
 
