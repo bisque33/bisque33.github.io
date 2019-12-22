@@ -27,7 +27,7 @@
 - Ruby on Railsを用いたAPIサーバの設計・実装
 - Node.js / TypeScriptを用いたAPIサーバの設計・実装
 - AppSyncを用いたGraphQLサーバの設計・実装
-- Node.js / TypeScriptを用いたGraphQLサーバの設計・実装
+- Ruby on Rails / TypeScriptを用いたGraphQLサーバの設計・実装
 - AWS環境の設計・実装・保全
 
 #### 2015/08 - 2017/06
