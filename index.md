@@ -12,25 +12,31 @@
 
 #### 2019/10 - Present
 
-モバイルアプリを対象としたアプリとCMSのプラットフォーム開発事業。
+モバイルアプリを対象としたアプリとCMSのマルチテナントプラットフォーム開発事業。
 
-バックエンドの設計・開発を担当。マルチテナント設計。
-
-GCP / AWS / TypeScript
+- システムアーキテクト
+- TypeScriptを用いたAPIサーバの設計・実装
+- React Native for Webを用いたクライアントアプリの実装
+- GCP環境の設計・実装・保全
 
 #### 2017/07 - 2019/09
 
-モバイルアプリを対象としたAPIとCMSのプラットフォーム開発事業。
+モバイルアプリを対象としたAPIとCMSのマルチテナントプラットフォーム開発事業。
 
-バックエンドの設計・開発を担当。マルチテナント設計。
-
-AWS / Ruby(Ruby on Rails) / Node.js / TypeScript / GraphQL
+- システムアーキテクト
+- Ruby on Railsを用いたAPIサーバの設計・実装
+- Node.js / TypeScriptを用いたAPIサーバの設計・実装
+- AppSyncを用いたGraphQLサーバの設計・実装
+- Node.js / TypeScriptを用いたGraphQLサーバの設計・実装
+- AWS環境の設計・実装・保全
 
 #### 2015/08 - 2017/06
 
-モバイルアプリを対象としたAPIアプリケーションやCMSアプリケーション開発。
+モバイルアプリの受託開発事業。
 
-AWS / Ruby(Ruby on Rails) / Scala(Play Framework)
+- Ruby on Railsを用いたCMSの設計・実装
+- Play Frameworkを用いたAPIサーバの設計・実装
+- AWS環境の設計・保全
 
 ### JR System Engineering CO.,Ltd
 
